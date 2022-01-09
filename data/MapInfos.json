@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Forest","order":1,"parentId":0,"scrollX":774.6666666666666,"scrollY":756}
+{"id":1,"expanded":false,"name":"Forest","order":1,"parentId":0,"scrollX":802,"scrollY":802},
+{"id":2,"expanded":false,"name":"Forest Town","order":2,"parentId":0,"scrollX":0,"scrollY":0}
 ]
