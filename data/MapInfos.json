@@ -1,14 +1,17 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Prolog 1.0 - Hutan Cimanuk","order":1,"parentId":0,"scrollX":720,"scrollY":862},
-{"id":2,"expanded":true,"name":"Bagian 1.0 - Hutan Cimanuk","order":7,"parentId":0,"scrollX":584,"scrollY":1514},
-{"id":3,"expanded":false,"name":"Bagian 2.0 - Labirin 1.0","order":10,"parentId":0,"scrollX":579,"scrollY":414},
-{"id":4,"expanded":false,"name":"Swamp","order":11,"parentId":0,"scrollX":617,"scrollY":1362},
-{"id":5,"expanded":false,"name":"Prolog 1.1b - Hutan Cimanuk Barat","order":3,"parentId":1,"scrollX":790,"scrollY":420},
+{"id":2,"expanded":true,"name":"Bagian 1.0 - Hutan Cimanuk","order":7,"parentId":0,"scrollX":596,"scrollY":877},
+{"id":3,"expanded":false,"name":"Bagian 2.0 - Labirin","order":10,"parentId":0,"scrollX":571,"scrollY":1410},
+{"id":4,"expanded":true,"name":"Bagian 3.0 - Reruntuhan","order":11,"parentId":0,"scrollX":600,"scrollY":1361},
+{"id":5,"expanded":false,"name":"Prolog 1.1b - Hutan Cimanuk Barat","order":3,"parentId":1,"scrollX":836,"scrollY":730},
 {"id":6,"expanded":true,"name":"Prolog 1.1c - Hutan Cimanuk Selatan","order":4,"parentId":1,"scrollX":588,"scrollY":406},
 {"id":7,"expanded":true,"name":"Prolog 1.2 - Hutan Cimanuk","order":5,"parentId":1,"scrollX":724,"scrollY":1093},
 {"id":8,"expanded":true,"name":"Prolog 1.1a - Hutan Cimanuk","order":2,"parentId":1,"scrollX":579,"scrollY":927},
 {"id":9,"expanded":true,"name":"Prolog 1.3 - Hutan Cimanuk","order":6,"parentId":1,"scrollX":626,"scrollY":979},
-{"id":10,"expanded":false,"name":"Bagian 1.1a - Hutan Cimanuk Barat","order":8,"parentId":2,"scrollX":869,"scrollY":1121},
-{"id":11,"expanded":true,"name":"Bagian 1.1b - Hutan Cimanuk Selatan","order":9,"parentId":2,"scrollX":581,"scrollY":406}
+{"id":10,"expanded":false,"name":"Bagian 1.1a - Hutan Cimanuk Barat","order":8,"parentId":2,"scrollX":820,"scrollY":649},
+{"id":11,"expanded":true,"name":"Bagian 1.1b - Hutan Cimanuk Selatan","order":9,"parentId":2,"scrollX":581,"scrollY":406},
+{"id":12,"expanded":true,"name":"Bagian 3.1 - Reruntuhan","order":12,"parentId":4,"scrollX":588,"scrollY":406},
+{"id":13,"expanded":false,"name":"Bagian 3.2 - Reruntuhan","order":13,"parentId":4,"scrollX":571,"scrollY":406},
+{"id":14,"expanded":true,"name":"Epilog ","order":14,"parentId":0,"scrollX":665,"scrollY":1084}
 ]
